@@ -1,0 +1,78 @@
+/* .carousel-item {
+    vendors.css -> 7098
+    height: 460px;
+    max-width: 100%;
+} */
+
+.category-menu-open {
+    background: #552786;
+    width: 210px;
+    color: #f1f1f1;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    padding: 12px 15px;
+}
+
+.category-bar-icon{
+    font-size: 1.7em;
+    margin-right: 10px;
+}
+.category-menu-title{
+    font-size: 18px;
+    font-weight: bold;
+    align-items: center;
+    /* display: flex; */
+    flex-direction: row;
+    font-weight: 600;
+    padding: 12px 15px;
+}
+.category-menu-down
+{
+    /* margin-left: 40px; */
+    display: flex;
+    justify-content: right;
+}
+.menu-text-hover:hover {
+    color: #552786;
+    transition: 0.4s all ease-in-out;
+}
+/*Privacy  Policy */
+.page-title {
+    min-height: 30px;
+    margin: 0 0 10px; 
+    padding: 5px 0;
+    border-bottom: 1px solid #d0d0d1;
+}   
+.privacy-title{
+    color: #000;
+    font-weight:bold;
+    font-size: 20px;
+}
+.privacy-text{
+    font-size: 12px;
+    text-align: justify; 
+    font-size:10.5pt;
+    font-family: 'nirmala','sans-serif';
+    
+    /* color:#333333; */
+    color: #777; 
+    margin: 10px 0;
+    /* line-height: 1.25em; */
+}
+.privacy-sub-title{
+    line-height: 1.38;
+    margin-top: 12px; 
+    margin-bottom: 2px;
+    font-size: 15px;
+    font-weight:bold;    
+}
+.display-inline{
+    display: flex;
+}
+.category-bg{
+    background-color: #F2F1F2;
+}
+
+
+
